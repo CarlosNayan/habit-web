@@ -5,6 +5,7 @@ export default {
     extend: {
       colors: {
         background: "#09090A",
+        custom: "#7C3AED",
       },
     },
   },
